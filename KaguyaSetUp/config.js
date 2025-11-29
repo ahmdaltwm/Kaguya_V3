@@ -19,7 +19,7 @@
     database: {
         type: "json",
         mongodb: {
-            uri: "mongodb://0.0.0.0:27017"
+            uri: "mongodb+srv://ahmedaltwm555_db_user:bJd0T7XxxSyaDORs@cluster0.aw2tr71.mongodb.net/?appName=Cluster0"
         }
     },
     port: process.env.PORT || 3000,
